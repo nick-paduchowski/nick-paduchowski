@@ -11,6 +11,7 @@ I’m passionate about cybersecurity and thrive on solving complex challenges th
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/nick-paduchowski/threat-hunting-tor)**
+- **[Threat Hunting Scenario (Firefox Portable Usage for Data Exfiltration](https://github.com/nick-paduchowski/threat-hunting-firefox-portable-data-exfil)**
 
 <hr/>
 
