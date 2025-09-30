@@ -16,7 +16,7 @@ I’m passionate about cybersecurity and thrive on solving complex challenges th
 
 ## 💻 Home Lab Projects
 
-- **[Home Lab Setup (AD, Windows, Linux, DNS, DHCP)](https://github.com/nick-paduchowski/threat-hunting-tor)**
+- **[Home Lab Setup (AD, Windows, Linux, DNS, DHCP)](https://github.com/nick-paduchowski/home-lab-setup)**
 
 <hr/>
 
