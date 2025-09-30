@@ -14,6 +14,10 @@ I’m passionate about cybersecurity and thrive on solving complex challenges th
 - **[Threat Hunting Scenario (Firefox Portable Usage for Data Exfiltration)](https://github.com/nick-paduchowski/threat-hunting-firefox-portable-data-exfil)**
 - **[Incident Response Scenario (Brute Force Attempt)](https://github.com/nick-paduchowski/incident-response-brute-force)**
 
+## 💻 Home Lab Projects
+
+- **[Home Lab Setup (AD, Windows, Linux, DNS, DHCP)](https://github.com/nick-paduchowski/threat-hunting-tor)**
+
 <hr/>
 
 ## 🤳 Connect With Me
